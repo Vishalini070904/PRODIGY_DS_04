@@ -1,6 +1,7 @@
 TASK:To analyze and visualize sentiment patterns in social media data to understand public opinion and attitudes towards specific topics or brands.
 Dataset used:Social Media Sentiments Analysis Dataset from Kaggle
 Tool used for visualization: PowerBI
+
 Knowledge insights:
 ->Data Interpretation: Understanding how to interpret sentiment analysis results visually, such as identifying peaks and trends in sentiment over time.
 ->Visualization Techniques: Knowledge of various visualization techniques in Power BI to effectively represent sentiment data, such as bar charts, line charts, and heat maps.
